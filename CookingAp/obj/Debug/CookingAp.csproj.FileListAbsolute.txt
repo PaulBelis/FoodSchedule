@@ -1,0 +1,11 @@
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\bin\Debug\CookingAp.exe.config
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\bin\Debug\CookingAp.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\bin\Debug\CookingAp.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.MainMenu.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.addFood.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.createMeal.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.Properties.Resources.resources
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.csproj.GenerateResource.Cache
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.exe
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.pdb
+C:\Users\Adam\Documents\Visual Studio 2015\Projects\CookingAp\CookingAp\obj\Debug\CookingAp.csprojResolveAssemblyReference.cache
